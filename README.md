@@ -1,5 +1,5 @@
 # G-UX-Tracker
-Self develop project, martial arts syllabus progression tracking and analytics, community driven engagement, 
+Self develop project, martial arts syllabus progression tracking and analytics, community driven engagement, intended for users within the training field (10-30 users) 
 
 - still within decision(web-based or mobile) 
 
